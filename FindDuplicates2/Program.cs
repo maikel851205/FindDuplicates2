@@ -84,7 +84,7 @@ namespace FindDuplicates2
 
          //foreach(var item in Arr)
          //{
-         //    if (hs.Contains(item))h
+         //    if (hs.Contains(item))
          //    {
          //        Console.WriteLine("duplicate found " + item);
          //        // break; // <- uncomment this if you want one message only
